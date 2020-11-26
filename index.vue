@@ -1,5 +1,5 @@
 <template>
-<h1>111111111111111</h1>
+<h1>222222222222</h1>
 </template>
 <script>
  import {mapGetters,mapActions} from 'vuex';
